@@ -1,6 +1,6 @@
-package DAO;
+package Dao;
 
-import Models.Movie;
+import Model.Movie;
 import java.sql.SQLException;
 import java.util.List;
 

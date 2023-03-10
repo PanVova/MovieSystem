@@ -1,7 +1,7 @@
-import API.ConnectionPool;
-import DAO.MovieDAO;
-import DAO.MovieDAOImpl;
-import Models.Movie;
+import Connection.ConnectionPool;
+import Dao.MovieDAO;
+import Dao.MovieDAOImpl;
+import Model.Movie;
 import java.sql.SQLException;
 import java.util.Date;
 

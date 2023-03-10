@@ -1,7 +1,7 @@
-package DAO;
+package Dao;
 
-import API.ConnectionPool;
-import Models.Movie;
+import Connection.ConnectionPool;
+import Model.Movie;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
